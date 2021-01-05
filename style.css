@@ -13,7 +13,7 @@ h2{
 }
 .witdh-half{ width: 40%;
     float: left;
-    margin-left: 100px;
+    margin-left: 50px;
     padding-left: 2%;
 }
 .witdh-half img{ width: 60%;
@@ -38,3 +38,15 @@ section{height: 500px;
 #line-center{ text-align: center;
 
 }
+.work-img{ width: 30%;
+
+}
+.work-area{ border: 1px solid white;
+    border-radius: 20px;
+    margin: 10px;
+    width: 30%;
+    float: left;
+   
+
+}
+
